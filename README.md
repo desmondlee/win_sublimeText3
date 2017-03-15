@@ -1,0 +1,2 @@
+# win_sublimeText3
+windows下的sublimeText3的package配置
