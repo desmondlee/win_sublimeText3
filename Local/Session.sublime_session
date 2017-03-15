@@ -1,0 +1,5183 @@
+{
+	"folder_history":
+	[
+		"/D/wamp64/www/php_release",
+		"/D/wamp64/www/dms",
+		"/D/wamp64/www/php_code",
+		"/D/wamp64/www/php_code/common",
+		"/D/wamp64/www/php_code/callcenter",
+		"/E/mygit/addons/voldemort_kefu",
+		"/E/we7_2016/addons/fans_sync",
+		"/E/we7_2016/addons/gmega_lemon",
+		"/D/wamp64/www/php_code/backend",
+		"/D/wamp64/www/php_code/collection",
+		"/D/wamp64/www/php_code/console"
+	],
+	"last_version": 3126,
+	"last_window_id": 63,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 857.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"order_lef",
+						"orders_left_count"
+					],
+					[
+						"compa",
+						"companies"
+					],
+					[
+						"sugge",
+						"suggest_amount"
+					],
+					[
+						"comp",
+						"company_get"
+					],
+					[
+						"f",
+						"foreach\tforeach …"
+					],
+					[
+						"deadl",
+						"deadline_amount"
+					],
+					[
+						"create",
+						"created_at"
+					],
+					[
+						"for",
+						"foredays"
+					],
+					[
+						"Collec",
+						"CollectionService"
+					],
+					[
+						"ord",
+						"orderId"
+					],
+					[
+						"order",
+						"order_id"
+					],
+					[
+						"collectionOrder",
+						"collectionOrderId"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"loancol",
+						"LoanCollectionOrder"
+					],
+					[
+						"order_",
+						"order_ids"
+					],
+					[
+						"true",
+						"true_repayment_time"
+					],
+					[
+						"new",
+						"new_repay"
+					],
+					[
+						"db_kdkj_r",
+						"db_kdkj_rd2"
+					],
+					[
+						"outs",
+						"outside_ip_record"
+					],
+					[
+						"User",
+						"UserCompany"
+					],
+					[
+						"getdb",
+						"getDb"
+					],
+					[
+						"admin_user",
+						"admin_user_id"
+					],
+					[
+						"real_",
+						"real_overdueDay"
+					],
+					[
+						"bef",
+						"before_cuishou_real_name_id"
+					],
+					[
+						"Loan",
+						"LoanCollectionOrder"
+					],
+					[
+						"before",
+						"before_cuishou_real_name_id"
+					],
+					[
+						"LoanO",
+						"LoanCollectionOrder"
+					],
+					[
+						"loanColl",
+						"loanCollectionId"
+					],
+					[
+						"admin",
+						"admin_user_id"
+					],
+					[
+						"adm",
+						"admin_user_id"
+					],
+					[
+						"db_",
+						"db_assist"
+					],
+					[
+						"real",
+						"real_overdueDay"
+					],
+					[
+						"LoanCo",
+						"LoanCollection"
+					],
+					[
+						"loanCO",
+						"LoanCollectionOrder"
+					],
+					[
+						"preg",
+						"preg_match"
+					],
+					[
+						"userI",
+						"userIps"
+					],
+					[
+						"array_ke",
+						"array_key_exists"
+					],
+					[
+						"self",
+						"self_id"
+					],
+					[
+						"va",
+						"valid_ip"
+					],
+					[
+						"out",
+						"outside_ip_record"
+					],
+					[
+						"status_",
+						"STATUS_ACTIVE"
+					],
+					[
+						"ip_",
+						"IP_MANUAL_OUTSIDE"
+					],
+					[
+						"user_",
+						"user_company_id"
+					],
+					[
+						"btn",
+						"btn-add"
+					],
+					[
+						"loa_colle",
+						"loan_collection_list"
+					],
+					[
+						"loan_co",
+						"loan_collection_list"
+					],
+					[
+						"loan_coll",
+						"loan_collection_list"
+					],
+					[
+						"L",
+						"LoanCollection"
+					],
+					[
+						"tb_loan",
+						"tb_loan_collection_order"
+					],
+					[
+						"db",
+						"db_assist"
+					],
+					[
+						"FRO",
+						"FROM_UNIXTIME"
+					],
+					[
+						"Adm",
+						"AdminUser"
+					],
+					[
+						"cur",
+						"cur_user"
+					],
+					[
+						"Loa",
+						"LoanCollectionOrder"
+					],
+					[
+						"Y-",
+						"Y-m-d"
+					],
+					[
+						"tb_user_",
+						"tb_user_loan_order_repayment"
+					],
+					[
+						"db_kd",
+						"db_kdkj_rd"
+					],
+					[
+						"query",
+						"queryAll"
+					],
+					[
+						"GR",
+						"GROUP_S_THREE"
+					],
+					[
+						"sms_t",
+						"SMS_TPL_3"
+					],
+					[
+						"sms",
+						"SMS_TPL_1"
+					],
+					[
+						"sms_tp",
+						"SMS_TPL_2"
+					],
+					[
+						"SMS",
+						"SMS_TPL_1"
+					],
+					[
+						"pho",
+						"phones"
+					],
+					[
+						"loanPersons",
+						"loanPersons"
+					],
+					[
+						"adminU",
+						"AdminUserService"
+					],
+					[
+						"all",
+						"all_ids"
+					],
+					[
+						"start",
+						"start_id"
+					],
+					[
+						"user_loan_",
+						"user_loan_order_repayment_id"
+					],
+					[
+						"repa",
+						"repaymentIds"
+					],
+					[
+						"rep",
+						"repaymentIds"
+					],
+					[
+						"Loanper",
+						"LoanPersonService"
+					],
+					[
+						"current",
+						"current_collection_admin_user_id"
+					],
+					[
+						"opera",
+						"operator_id"
+					],
+					[
+						"operato",
+						"operator_id"
+					],
+					[
+						"statis",
+						"statistics_stage"
+					],
+					[
+						"true_",
+						"true_total_money"
+					],
+					[
+						"opre",
+						"operator_name"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"colle",
+						"collectionId"
+					],
+					[
+						"rul",
+						"rules_array"
+					],
+					[
+						"ser",
+						"services"
+					],
+					[
+						"ty",
+						"TYPE_XIANJIANCARD"
+					],
+					[
+						"type_xi",
+						"TYPE_XIANJINXIA"
+					],
+					[
+						"dispat",
+						"dispatch_time"
+					],
+					[
+						"vali",
+						"validRepayIds"
+					],
+					[
+						"crea",
+						"createTime"
+					],
+					[
+						"coll",
+						"collection_day"
+					],
+					[
+						"collec",
+						"collection_day"
+					],
+					[
+						"tot",
+						"total_principal"
+					],
+					[
+						"grou",
+						"group_amount"
+					],
+					[
+						"operat",
+						"operator_id"
+					],
+					[
+						"person",
+						"person_relation"
+					],
+					[
+						"LoanAll",
+						"LoanApplyMobileLogService"
+					],
+					[
+						"loan_per",
+						"loan_person"
+					],
+					[
+						"repay",
+						"repayOrder"
+					],
+					[
+						"LoanCO",
+						"LoanCollectionNoticeDetail"
+					],
+					[
+						"stat",
+						"start"
+					],
+					[
+						"actionstat",
+						"actionStatistic_10"
+					],
+					[
+						"Ord",
+						"OrderStatisticsByStatus"
+					],
+					[
+						"pan",
+						"panel-body"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pers",
+						"personInfo"
+					],
+					[
+						"ove",
+						"overdue_days"
+					],
+					[
+						"overdu",
+						"overdue_day"
+					],
+					[
+						"tru",
+						"true_repayment_time"
+					],
+					[
+						"sort",
+						"sort_type"
+					],
+					[
+						"loan_clle",
+						"loan_collection_list"
+					],
+					[
+						"adv",
+						"advice"
+					],
+					[
+						"loan_pers",
+						"loan_persons"
+					],
+					[
+						"loan_perso",
+						"loan_person_name"
+					],
+					[
+						"loan_col",
+						"loan_collectionRecord"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"admi",
+						"admin_users"
+					],
+					[
+						"tabl",
+						"tableName"
+					],
+					[
+						"Loanc",
+						"LoanCollection"
+					],
+					[
+						"collection",
+						"collectionOrders"
+					],
+					[
+						"from",
+						"from_app"
+					],
+					[
+						"LoanCol",
+						"LoanCollection"
+					],
+					[
+						"Loanco",
+						"LoanCollectionStatistics"
+					],
+					[
+						"loanOrder",
+						"loanOrderIds"
+					],
+					[
+						"compan",
+						"company"
+					],
+					[
+						"sub",
+						"sub_order_type"
+					],
+					[
+						"UserLoanO",
+						"UserLoanOrder"
+					],
+					[
+						"今日",
+						"今日入催总量："
+					],
+					[
+						"orders",
+						"orders_overdue_day_s2"
+					],
+					[
+						"curr",
+						"current_collection_admin_user_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"last_filter": "formatcode",
+				"selected_items":
+				[
+					[
+						"formatcode",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/export/export/model.php",
+				"/C/Users/Administrator/Desktop/export/export/site.php",
+				"/C/Users/Administrator/Desktop/tb_loan_collection_deadline.sql",
+				"/D/wamp64/www/php_code/callcenter/views/collection-statistics/order-statistics.php",
+				"/D/wamp64/www/php_code/common/models/loan/UserCompany.php",
+				"/D/网盘/主库只读实例.txt",
+				"/D/网盘/mongoDB日志系统.txt",
+				"/C/Users/Administrator/Desktop/lose.txt",
+				"/D/wamp64/www/php_release/common/services/loan_collection/LoanCollectionDispatch.php",
+				"/D/wamp64/www/php_release/console/controllers/CollectionController.php",
+				"/D/wamp64/www/php_release/callcenter/config/menu.php",
+				"/D/wamp64/www/php_code/backend/controllers/FinancialController.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserLoanOrderRepaymentService.php",
+				"/D/wamp64/www/php_code/callcenter/config/params.php",
+				"/D/wamp64/www/php_code/backend/config/params.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/StaffRepayController.php",
+				"/D/wamp64/www/php_code/backend/controllers/StaffRepayController.php",
+				"/D/wamp64/www/test/time.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionStatisticsController.php",
+				"/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByRate.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/BaseController.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionIp.php",
+				"/D/wamp64/www/test/intval.php",
+				"/D/网盘/催收系统独立/assist数据库.txt",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserFeedbackService.php",
+				"/D/wamp64/www/php_code/common/models/UserFeedback.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanApplyMobileLog.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserMobileContactsService.php",
+				"/D/wamp64/www/php_release/common/models/mongo/statistics/UserMobileContactsMongo.php",
+				"/D/wamp64/www/php_code/console/controllers/CollectionController.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionOrder.php",
+				"/D/wamp64/www/php_code/common/helpers/ToolsUtil.php",
+				"/D/wamp64/www/php_code/common/helpers/MailHelper.php",
+				"/D/wamp64/www/php_code/console/controllers/CollectionManualController.php",
+				"/D/wamp64/www/php_release/common/services/CollectionService.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/UserCompanyController.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-edit-form.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionController.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection/_collection_user_feedback_list.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection/collection-user-feedback-list.php",
+				"/D/wamp64/www/php_code/backend/views/collection/_collection_user_feedback_list.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/FinancialController.php",
+				"/D/网盘/催收短信通道/云信留客/测试账号.txt",
+				"/D/网盘/短信平台.txt",
+				"/C/Users/Administrator/AppData/Roaming/Foxmail7/Temp-3884-20170116093844/ssh-key/ssh-key/lizhenguo.pub",
+				"/D/wamp64/www/php_release/callcenter/controllers/CollectionController.php",
+				"/D/wamp64/www/php_release/backend/controllers/WorkDeskController.php",
+				"/D/wamp64/www/php_code/backend/controllers/WorkDeskController.php",
+				"/C/Users/Administrator/AppData/Roaming/Foxmail7/Temp-3884-20170116093844/已授权IP.txt",
+				"/C/Users/Administrator/Desktop/b.txt",
+				"/C/Users/Administrator/Desktop/a.txt",
+				"/D/Documents/Tencent Files/1056004265/FileRecv/tb_loan_person.sql",
+				"/D/Documents/Tencent Files/1056004265/FileRecv/loan_person缺失id第一部分.txt",
+				"/E/test2/aaa/test.php",
+				"/C/Users/Administrator/.gitconfig",
+				"/C/Users/Administrator/.ssh/known_hosts",
+				"/D/wamp64/www/php_code/backend/views/collection/collection-order-list.php",
+				"/D/Documents/Downloads/已授权IP.txt",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/_user-add-form.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection-ip/ip-add.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionIpController.php",
+				"/D/wamp64/www/php_code/common/models/UserLoanOrderRepayment.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollection.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/user-add.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/MainController.php",
+				"/D/wamp64/www/php_code/callcenter/models/AdminUserRole.php",
+				"/D/wamp64/www/php_code/callcenter/models/AdminUser.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection-ip/ip-list.php",
+				"/D/wamp64/www/test/date.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/AdminUserService.php",
+				"/D/wamp64/www/php_code/backend/models/AdminUser.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionStatusChangeLog.php",
+				"/D/wamp64/www/php_code/console/controllers/DaemonController.php",
+				"/D/wamp64/www/php_code/common/services/CollectionService.php",
+				"/D/wamp64/www/php_release/common/models/loan/LoanCollectionOrder.php",
+				"/D/wamp64/www/php_code/common/services/FinancialService.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_code/backend/controllers/CollectionController.php",
+				"/D/wamp64/www/test/preg.php",
+				"/D/网盘/催收统计/派单两次的记录总数.sql",
+				"/D/wamp64/www/test/day_diff.php",
+				"/D/wamp64/www/php_code/backend/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_release/backend/controllers/CollectionIpController.php",
+				"/D/wamp64/www/php_release/callcenter/config/params.php",
+				"/D/wamp64/www/php_code/backend/controllers/CollectionIpController.php",
+				"/D/wamp64/www/test/array_diff.php",
+				"/D/wamp64/www/test/year.php",
+				"/D/wamp64/www/test/sort.php",
+				"/D/wamp64/www/test/server.php",
+				"/D/wamp64/www/test/int.php",
+				"/D/wamp64/www/test/db_construct.php",
+				"/D/网盘/script脚本服务器SSH账密.txt",
+				"/D/wamp64/www/php_release/backend/config/params.php",
+				"/D/wamp64/www/php_code/backend/controllers/UserCompanyController.php",
+				"/D/wamp64/www/php_release/callcenter/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/company-list.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-list.php",
+				"/D/wamp64/www/php_code/callcenter/config/menu.php",
+				"/C/Users/Administrator/Desktop/phone.php",
+				"/D/wamp64/www/php_code/backend/views/collection-statistics/principal-statistics.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/company-add.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-add-form.php",
+				"/D/Documents/Tencent Files/2017926569/FileRecv/i.weiks.net-access.log",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/user-collection-list.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/_user-collection-list.php",
+				"/D/wamp64/www/php_code/backend/views/user-company/_company-add-form.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/UserCollectionController.php",
+				"/E/mygit/addons/funny_xingzuo/model.php",
+				"/E/mygit/addons/funny_xingzuo/manifest.xml",
+				"/D/wamp64/www/php_code/common/services/loan_collection/LoanCollectionDispatch.php",
+				"/D/wamp64/www/php_code/environments/dev/common/config/main-local.php",
+				"/D/wamp64/www/php_code/environments/dev/backend/config/main-local.php",
+				"/D/wamp64/www/php_code/backend/views/user-company/_company-edit-form.php",
+				"/D/wamp64/www/php_release/callcenter/controllers/StaffRepayController.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/fzd-cut.php",
+				"/D/wamp64/www/php_release/vendor/yiisoft/yii2/helpers/BaseJson.php",
+				"/D/wamp64/www/php_code/callcenter/config/main.php",
+				"/D/wamp64/www/php_code/backend/config/main.php",
+				"/D/wamp64/www/php_release/callcenter/config/main.php",
+				"/D/wamp64/www/php_release/callcenter/messages/zh/app.php",
+				"/D/wamp64/www/php_code/vendor/yiisoft/yii2/helpers/BaseJson.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/fzd-retrail.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/fzd-trail.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/house-list.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/pocket-cut.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/pocket-delay-list.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/pocket-finish-debit.php",
+				"/D/wamp64/www/php_release/callcenter/views/staff-repay/pocket-part-debit.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_release\\h5\\config",
+					"D:\\wamp64\\www\\php_release\\mobile\\config",
+					"D:\\wamp64\\www\\php_release\\frontend\\config",
+					"D:\\wamp64\\www\\php_release\\front\\config",
+					"D:\\wamp64\\www\\php_release\\fronted\\config",
+					"D:\\wamp64\\www\\php_release\\callcenter\\config",
+					"D:\\wamp64\\www\\php_release\\backend\\config",
+					"D:\\wamp64\\www\\php_code\\backend\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_release\\callcenter\\",
+					"D:\\wamp64\\www\\php_release\\callcenter\\views\\staff-repay",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\",
+					"D:\\wamp64\\www\\php_code\\",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\environments\\prod",
+					"D:\\wamp64\\www\\php_code\\environments\\dev",
+					"D:\\wamp64\\www\\php_release\\environments\\dev",
+					"D:\\wamp64\\www\\php_release\\environments\\common",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"E:\\mygit\\framework",
+					"E:\\mygit\\web",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\callcenter",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\dms",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\environments\\test",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\daily",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\financial",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\finiancial",
+					"D:\\wamp64\\www\\php_code\\_backend",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\user-company",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\user-collection",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\usercollection",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\layouts",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\layout",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\main",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments\\prod\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments\\",
+					"D:\\wamp64\\www\\php_code\\callcenter\\",
+					"D:\\wamp64\\www\\php_code\\callcenter\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controlleres",
+					"D:\\wamp64\\www\\php_code\\callcenter\\components",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\console",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\console",
+					"<open files>",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\common\\services",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\common\\services",
+					"D:\\wamp64\\www\\php_code\\common\\services",
+					"D:\\wamp64\\www\\php_code\\common\\service",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_release\\console",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\common\\models\\",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common\\models\\loan",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\backend"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"newdispatch",
+					"内部组长人员",
+					"OrderStatisticsByRate",
+					"lists(",
+					"principalstatis",
+					"rate",
+					"actionorderstatistic",
+					"lists(",
+					"actionorderstatistic",
+					"orderstatistic",
+					"db_assist",
+					"rules",
+					"deadline_amount",
+					"LoanCollectionDeadline",
+					"createCommand",
+					"scalar",
+					"newdispatch",
+					"autodebit",
+					"$type",
+					"getUserFeedList",
+					"TYPE_COLLECTION",
+					"collectionuserfeed",
+					"\t融盛通",
+					"志恒专勤",
+					"现金卡2组",
+					"\t志恒专勤",
+					"龙泽X",
+					"勤为X",
+					"edit",
+					"order_id(",
+					"order_id",
+					"success",
+					"lists(",
+					"排序",
+					"success",
+					"each",
+					"success",
+					"getAlipayFilter",
+					"alipaylist",
+					"$status",
+					"newdispatch",
+					"getTXL(",
+					"collectionview",
+					"actionNoticeDeletedCollection",
+					"actionwarning",
+					"warning",
+					"actioncollectionorderlist",
+					"//选择催收状态为“催收成功”，则包括“委外成功”的单据。",
+					"STATUS_WAIT_COLLECTION",
+					"getCollectionOrderLisetFilter",
+					"actioncollectionorderlist",
+					"$status",
+					"manualstatus",
+					"dispatchmail",
+					"actionManualStatus",
+					"$status",
+					"actionorderstatus",
+					"reset(",
+					"execute",
+					"回收",
+					"转派",
+					"36.33.32.187",
+					"getDebitFilter",
+					"debitlist",
+					"actionFinishAlipayLog",
+					"alipaylog",
+					"getAlipayFilter",
+					"alipaylist",
+					"aplipaylist",
+					"staffrepay",
+					"financial",
+					"commonPocketView",
+					"置为已还款",
+					"getFilter",
+					"actionAddDebit",
+					"callcenter",
+					"all()",
+					"all(",
+					"daily",
+					"OrderStatisticsByRate",
+					"getDb(",
+					"lists(",
+					"OrderStatisticsByRate",
+					"principal",
+					"actionStatisticDispatchDaysStage",
+					"actionNoticeDeletedCollection",
+					"actionWarningRole",
+					"stage",
+					"actionCrontabStatisticsStage",
+					"actionStatistic_10",
+					"info-warning",
+					"overdue",
+					"overdue-la",
+					"auto-sugges",
+					"statistics-daily",
+					"order-overview-statistics_1",
+					"daily",
+					"actionNoticeDeletedCollection",
+					"actionUserFeedbackCollectionOutside",
+					"actionSuggestionOutside",
+					"actionDispatchMail",
+					"actionStatistic_10",
+					"actionRucui1214",
+					"actionNoticeNoPay",
+					"actionNoticeNoOutside",
+					"actionWarningRole",
+					"actionNoticeDeletedCollection",
+					"actionInfoInput",
+					"actionTest",
+					"manual",
+					"submit_btn",
+					"operator",
+					"lists(",
+					"outsides",
+					"lists(",
+					"list(",
+					"lists(",
+					"self::getDb",
+					"is_outside",
+					"actioncollectionorderlist",
+					"collectionorderlist",
+					"ids(",
+					"逾期一天自动发催收短",
+					"UserLoanOrderRepayment",
+					"ids(",
+					"UserLoanOrderRepayment",
+					"statistics_in_ids",
+					"UserLoanOrderRepayment"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"backend",
+					"callcenter",
+					"src=\"//cdn.bootcss.com/",
+					"href=\"//cdn.bootcss.com/",
+					"",
+					"callcenter\\",
+					"namespace callcenter\\",
+					"callcenter",
+					"",
+					"collection"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"collec",
+						"console\\controllers\\CollectionController.php"
+					],
+					[
+						"loancollectioncontroll",
+						"backend\\controllers\\LoanCollectionController.php"
+					],
+					[
+						"collectionnotice",
+						"backend\\controllers\\CollectionNoticeController.php"
+					],
+					[
+						"collectionstati",
+						"backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"usercollec",
+						"backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"maincon",
+						"backend\\controllers\\MainController.php"
+					],
+					[
+						"basec",
+						"backend\\controllers\\BaseController.php"
+					],
+					[
+						"usercollection",
+						"backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"collectioncon",
+						"backend\\controllers\\CollectionController.php"
+					],
+					[
+						"financial",
+						"callcenter\\controllers\\FinancialController.php"
+					],
+					[
+						"workdes",
+						"callcenter\\controllers\\WorkDeskController.php"
+					],
+					[
+						"principal-statistics",
+						"callcenter\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"order-statistics",
+						"callcenter\\views\\collection-statistics\\order-statistics.php"
+					],
+					[
+						"collectionstatic",
+						"callcenter\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"menu",
+						"callcenter\\config\\menu.php"
+					],
+					[
+						"main-loa",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"main-local",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"collectioncontrol",
+						"console\\controllers\\CollectionController.php"
+					],
+					[
+						"ygdreject",
+						"php_code\\console\\controllers\\YgdRejectController.php"
+					],
+					[
+						"basecon",
+						"php_code\\callcenter\\controllers\\BaseController.php"
+					],
+					[
+						"_collection_user_feedback_list",
+						"php_code\\callcenter\\views\\collection\\_collection_user_feedback_list.php"
+					],
+					[
+						"collection-user-feedback-list",
+						"php_code\\callcenter\\views\\collection\\collection-user-feedback-list.php"
+					],
+					[
+						"_company-edit-form",
+						"php_code\\callcenter\\views\\user-company\\_company-edit-form.php"
+					],
+					[
+						"usercompanycon",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"tool",
+						"php_code\\common\\helpers\\ToolsUtil.php"
+					],
+					[
+						"manual",
+						"php_code\\console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"colle",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"loancollectionip",
+						"php_code\\common\\models\\loan\\LoanCollectionIp.php"
+					],
+					[
+						"loancollectionorder.php",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"loancollectionorder",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"manualcontroll",
+						"php_code\\console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"collection",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"financialcon",
+						"php_code\\callcenter\\controllers\\FinancialController.php"
+					],
+					[
+						"staffrepaycontr",
+						"php_code\\backend\\controllers\\StaffRepayController.php"
+					],
+					[
+						"collectionip.php",
+						"php_code\\common\\models\\loan\\LoanCollectionIp.php"
+					],
+					[
+						"collectionipcon",
+						"php_code\\callcenter\\controllers\\CollectionIpController.php"
+					],
+					[
+						"ip-add",
+						"php_code\\callcenter\\views\\collection-ip\\ip-add.php"
+					],
+					[
+						"_user-add-form",
+						"php_code\\callcenter\\views\\user-collection\\_user-add-form.php"
+					],
+					[
+						"user-add",
+						"php_code\\callcenter\\views\\user-collection\\user-add.php"
+					],
+					[
+						"collectionorderlist",
+						"php_code\\backend\\views\\collection\\collection-order-list.php"
+					],
+					[
+						"collectioncontroller",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"userloanorderrepaymentser",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"collectioncontroller.php",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"ip-list",
+						"php_code\\callcenter\\views\\collection-ip\\ip-list.php"
+					],
+					[
+						"collectionipcont",
+						"php_code\\callcenter\\controllers\\CollectionIpController.php"
+					],
+					[
+						"collectionip",
+						"php_code\\backend\\controllers\\CollectionIpController.php"
+					],
+					[
+						"adminuser",
+						"php_code\\callcenter\\models\\AdminUser.php"
+					],
+					[
+						"loancollection",
+						"php_code\\common\\models\\loan\\LoanCollection.php"
+					],
+					[
+						"collectioncont",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"userloanorderrepay",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"loancollectionorder.",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"userloanorderrepaymentservice",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"usercompany.php",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"loancollectionstatuscha",
+						"php_code\\common\\models\\loan\\LoanCollectionStatusChangeLog.php"
+					],
+					[
+						"loancollection.php",
+						"php_code\\common\\models\\loan\\LoanCollection.php"
+					],
+					[
+						"maincontro",
+						"php_code\\callcenter\\controllers\\MainController.php"
+					],
+					[
+						"collectioncontro",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"adminusercon",
+						"php_code\\callcenter\\controllers\\AdminUserController.php"
+					],
+					[
+						"adminusercontroller",
+						"php_code\\backend\\controllers\\AdminUserController.php"
+					],
+					[
+						"usercompany",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"_company-list",
+						"php_code\\callcenter\\views\\user-company\\_company-list.php"
+					],
+					[
+						"company-list",
+						"php_code\\callcenter\\views\\user-company\\company-list.php"
+					],
+					[
+						"basecontro",
+						"php_code\\callcenter\\controllers\\BaseController.php"
+					],
+					[
+						"usercompany.p",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"princi",
+						"php_code\\backend\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"_company-add-form",
+						"php_code\\callcenter\\views\\user-company\\_company-add-form.php"
+					],
+					[
+						"company-add",
+						"php_code\\callcenter\\views\\user-company\\company-add.php"
+					],
+					[
+						"_company-add-fo",
+						"php_code\\callcenter\\views\\user-company\\_company-add-form.php"
+					],
+					[
+						"usercollectioncontro",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					],
+					[
+						"_user_add",
+						"php_code\\callcenter\\views\\user-collection\\_user-add-form.php"
+					],
+					[
+						"loandispatch",
+						"php_code\\common\\services\\loan_collection\\LoanCollectionDispatch.php"
+					],
+					[
+						"collectionorder",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"usercompanycontroller",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"app.php",
+						"php_release\\callcenter\\messages\\zh\\app.php"
+					],
+					[
+						"usercompan",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"basejson",
+						"php_code\\vendor\\yiisoft\\yii2\\helpers\\BaseJson.php"
+					],
+					[
+						"basejson.php",
+						"php_release\\vendor\\yiisoft\\yii2\\helpers\\BaseJson.php"
+					],
+					[
+						"staffrepay",
+						"php_release\\backend\\controllers\\StaffRepayController.php"
+					],
+					[
+						"main-lo",
+						"php_code\\environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"menu.php",
+						"php_code\\backend\\config\\menu.php"
+					],
+					[
+						"main-local.php",
+						"php_code\\environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"mailhe",
+						"php_code\\common\\helpers\\MailHelper.php"
+					],
+					[
+						"principal",
+						"php_code\\backend\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"userloanorderrep",
+						"php_code\\common\\models\\UserLoanOrderRepayment.php"
+					],
+					[
+						"_collection_order_list",
+						"php_code\\backend\\views\\collection\\_collection_order_list.php"
+					],
+					[
+						"collection-order-list",
+						"php_code\\callcenter\\views\\collection\\collection-order-list.php"
+					],
+					[
+						"loan-apply-access",
+						"php_code\\callcenter\\views\\collection\\loan-apply-access.php"
+					],
+					[
+						"collectioncontr",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"user-schedule",
+						"php_code\\callcenter\\views\\user-company\\user-schedule.php"
+					],
+					[
+						"user-collection-list",
+						"php_code\\callcenter\\views\\user-collection\\user-collection-list.php"
+					],
+					[
+						"usercollectioncon",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					],
+					[
+						"outside-statistics",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"loan-collection-statistics",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"collectionstatis",
+						"php_code\\callcenter\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"usercon",
+						"php_code\\backend\\controllers\\UserController.php"
+					],
+					[
+						"collectionstatisticcon",
+						"php_release\\backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"outside-statis",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"outside-statstics",
+						"php_release\\backend\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"outside-bill",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-billboard.php"
+					],
+					[
+						"outside-bi",
+						"php_release\\backend\\views\\collection-statistics\\outside-billboard.php"
+					],
+					[
+						"month-statistic-new",
+						"php_code\\callcenter\\views\\collection-statistics\\month-statistic-new.php"
+					],
+					[
+						"loan-collection-statistis",
+						"php_release\\backend\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"custommanagementcon",
+						"php_release\\backend\\controllers\\CustomManagementController.php"
+					],
+					[
+						"_user-collection",
+						"php_code\\callcenter\\views\\user-collection\\_user-collection-list.php"
+					],
+					[
+						"usercollectioncontr",
+						"php_release\\backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"loan-collection-vieww",
+						"php_release\\backend\\views\\collection\\loan-collection-vieww.php"
+					],
+					[
+						"",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"collectionstatist",
+						"php_release\\backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"loan-collections-s",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"user-collection",
+						"php_code\\callcenter\\views\\user-collection\\user-collection-list.php"
+					],
+					[
+						"usercollectionco",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					],
+					[
+						"msgpushcon",
+						"php_code\\backend\\controllers\\MsgPushController.php"
+					],
+					[
+						"principa",
+						"php_code\\backend\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"params",
+						"php_code\\callcenter\\config\\params.php"
+					],
+					[
+						"main-l",
+						"php_code\\environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"adminuser.php",
+						"php_code\\backend\\models\\AdminUser.php"
+					],
+					[
+						"collectionc",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"loancollectioncon",
+						"php_code\\callcenter\\controllers\\LoanCollectionController.php"
+					],
+					[
+						"usercompa",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"loancollectioncontroller",
+						"php_code\\callcenter\\controllers\\LoanCollectionController.php"
+					],
+					[
+						"_roleform",
+						"php_code\\callcenter\\views\\admin-user\\_roleform.php"
+					],
+					[
+						"role-add",
+						"php_code\\callcenter\\views\\admin-user\\role-add.php"
+					],
+					[
+						"role-list",
+						"php_code\\callcenter\\views\\admin-user\\role-list.php"
+					],
+					[
+						"no-outside-detail",
+						"php_code\\backend\\views\\collection-notice\\no-outside-detail.php"
+					],
+					[
+						"no-pay",
+						"php_code\\backend\\views\\collection-notice\\no-pay.php"
+					],
+					[
+						"no-input",
+						"php_code\\backend\\views\\collection-notice\\no-input-detail.php"
+					],
+					[
+						"no-input-detail",
+						"php_code\\backend\\views\\collection-notice\\no-input-detail.php"
+					],
+					[
+						"_collection_user_fee",
+						"php_code\\callcenter\\views\\collection\\_collection_user_feedback_list.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 343.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1801.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"collec",
+						"collectionId"
+					],
+					[
+						"sear",
+						"search_submit"
+					],
+					[
+						"UserLoan",
+						"UserLoanOrderRepayment"
+					],
+					[
+						"Userloan",
+						"UserLoanOrderRepaymentService"
+					],
+					[
+						"repay",
+						"repayOrders"
+					],
+					[
+						"array_c",
+						"array_column"
+					],
+					[
+						"order",
+						"orderIds"
+					],
+					[
+						"loan",
+						"loanCollectionOrder"
+					],
+					[
+						"LoanCo",
+						"LoanCollectionOrder"
+					],
+					[
+						"loanCol",
+						"loanCollectionOrder"
+					],
+					[
+						"di",
+						"dispatch_day"
+					],
+					[
+						"loancollec",
+						"LoanCollection"
+					],
+					[
+						"kdj",
+						"kdkj_read"
+					],
+					[
+						"com",
+						"company"
+					],
+					[
+						"global",
+						"global_group_user_amount"
+					],
+					[
+						"group_user",
+						"group_user_amount"
+					],
+					[
+						"sug",
+						"suggest"
+					],
+					[
+						"comp",
+						"companies"
+					],
+					[
+						"group_use",
+						"group_user_amount"
+					],
+					[
+						"order_lef",
+						"orders_left_count"
+					],
+					[
+						"compa",
+						"companies"
+					],
+					[
+						"sugge",
+						"suggest_amount"
+					],
+					[
+						"f",
+						"foreach\tforeach …"
+					],
+					[
+						"deadl",
+						"deadline_amount"
+					],
+					[
+						"create",
+						"created_at"
+					],
+					[
+						"for",
+						"foredays"
+					],
+					[
+						"Collec",
+						"CollectionService"
+					],
+					[
+						"ord",
+						"orderId"
+					],
+					[
+						"collectionOrder",
+						"collectionOrderId"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"loancol",
+						"LoanCollectionOrder"
+					],
+					[
+						"order_",
+						"order_ids"
+					],
+					[
+						"true",
+						"true_repayment_time"
+					],
+					[
+						"new",
+						"new_repay"
+					],
+					[
+						"db_kdkj_r",
+						"db_kdkj_rd2"
+					],
+					[
+						"outs",
+						"outside_ip_record"
+					],
+					[
+						"User",
+						"UserCompany"
+					],
+					[
+						"getdb",
+						"getDb"
+					],
+					[
+						"admin_user",
+						"admin_user_id"
+					],
+					[
+						"real_",
+						"real_overdueDay"
+					],
+					[
+						"bef",
+						"before_cuishou_real_name_id"
+					],
+					[
+						"Loan",
+						"LoanCollectionOrder"
+					],
+					[
+						"before",
+						"before_cuishou_real_name_id"
+					],
+					[
+						"LoanO",
+						"LoanCollectionOrder"
+					],
+					[
+						"loanColl",
+						"loanCollectionId"
+					],
+					[
+						"admin",
+						"admin_user_id"
+					],
+					[
+						"adm",
+						"admin_user_id"
+					],
+					[
+						"db_",
+						"db_assist"
+					],
+					[
+						"real",
+						"real_overdueDay"
+					],
+					[
+						"loanCO",
+						"LoanCollectionOrder"
+					],
+					[
+						"preg",
+						"preg_match"
+					],
+					[
+						"userI",
+						"userIps"
+					],
+					[
+						"array_ke",
+						"array_key_exists"
+					],
+					[
+						"self",
+						"self_id"
+					],
+					[
+						"va",
+						"valid_ip"
+					],
+					[
+						"out",
+						"outside_ip_record"
+					],
+					[
+						"status_",
+						"STATUS_ACTIVE"
+					],
+					[
+						"ip_",
+						"IP_MANUAL_OUTSIDE"
+					],
+					[
+						"user_",
+						"user_company_id"
+					],
+					[
+						"btn",
+						"btn-add"
+					],
+					[
+						"loa_colle",
+						"loan_collection_list"
+					],
+					[
+						"loan_co",
+						"loan_collection_list"
+					],
+					[
+						"loan_coll",
+						"loan_collection_list"
+					],
+					[
+						"L",
+						"LoanCollection"
+					],
+					[
+						"tb_loan",
+						"tb_loan_collection_order"
+					],
+					[
+						"db",
+						"db_assist"
+					],
+					[
+						"FRO",
+						"FROM_UNIXTIME"
+					],
+					[
+						"Adm",
+						"AdminUser"
+					],
+					[
+						"cur",
+						"cur_user"
+					],
+					[
+						"Loa",
+						"LoanCollectionOrder"
+					],
+					[
+						"Y-",
+						"Y-m-d"
+					],
+					[
+						"tb_user_",
+						"tb_user_loan_order_repayment"
+					],
+					[
+						"db_kd",
+						"db_kdkj_rd"
+					],
+					[
+						"query",
+						"queryAll"
+					],
+					[
+						"GR",
+						"GROUP_S_THREE"
+					],
+					[
+						"sms_t",
+						"SMS_TPL_3"
+					],
+					[
+						"sms",
+						"SMS_TPL_1"
+					],
+					[
+						"sms_tp",
+						"SMS_TPL_2"
+					],
+					[
+						"SMS",
+						"SMS_TPL_1"
+					],
+					[
+						"pho",
+						"phones"
+					],
+					[
+						"loanPersons",
+						"loanPersons"
+					],
+					[
+						"adminU",
+						"AdminUserService"
+					],
+					[
+						"all",
+						"all_ids"
+					],
+					[
+						"start",
+						"start_id"
+					],
+					[
+						"user_loan_",
+						"user_loan_order_repayment_id"
+					],
+					[
+						"repa",
+						"repaymentIds"
+					],
+					[
+						"rep",
+						"repaymentIds"
+					],
+					[
+						"Loanper",
+						"LoanPersonService"
+					],
+					[
+						"current",
+						"current_collection_admin_user_id"
+					],
+					[
+						"opera",
+						"operator_id"
+					],
+					[
+						"operato",
+						"operator_id"
+					],
+					[
+						"statis",
+						"statistics_stage"
+					],
+					[
+						"true_",
+						"true_total_money"
+					],
+					[
+						"opre",
+						"operator_name"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"colle",
+						"collectionId"
+					],
+					[
+						"rul",
+						"rules_array"
+					],
+					[
+						"ser",
+						"services"
+					],
+					[
+						"ty",
+						"TYPE_XIANJIANCARD"
+					],
+					[
+						"type_xi",
+						"TYPE_XIANJINXIA"
+					],
+					[
+						"dispat",
+						"dispatch_time"
+					],
+					[
+						"vali",
+						"validRepayIds"
+					],
+					[
+						"crea",
+						"createTime"
+					],
+					[
+						"coll",
+						"collection_day"
+					],
+					[
+						"tot",
+						"total_principal"
+					],
+					[
+						"grou",
+						"group_amount"
+					],
+					[
+						"operat",
+						"operator_id"
+					],
+					[
+						"person",
+						"person_relation"
+					],
+					[
+						"LoanAll",
+						"LoanApplyMobileLogService"
+					],
+					[
+						"loan_per",
+						"loan_person"
+					],
+					[
+						"LoanCO",
+						"LoanCollectionNoticeDetail"
+					],
+					[
+						"stat",
+						"start"
+					],
+					[
+						"actionstat",
+						"actionStatistic_10"
+					],
+					[
+						"Ord",
+						"OrderStatisticsByStatus"
+					],
+					[
+						"pan",
+						"panel-body"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pers",
+						"personInfo"
+					],
+					[
+						"ove",
+						"overdue_days"
+					],
+					[
+						"overdu",
+						"overdue_day"
+					],
+					[
+						"tru",
+						"true_repayment_time"
+					],
+					[
+						"sort",
+						"sort_type"
+					],
+					[
+						"loan_clle",
+						"loan_collection_list"
+					],
+					[
+						"adv",
+						"advice"
+					],
+					[
+						"loan_pers",
+						"loan_persons"
+					],
+					[
+						"loan_perso",
+						"loan_person_name"
+					],
+					[
+						"loan_col",
+						"loan_collectionRecord"
+					],
+					[
+						"print",
+						"print_r"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/controllers/CollectionController.php",
+					"settings":
+					{
+						"buffer_size": 142732,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/services/LoanCollectionService.php",
+					"settings":
+					{
+						"buffer_size": 16345,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/views/collection/manual-status-list.php",
+					"settings":
+					{
+						"buffer_size": 18925,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_release/backend/controllers/LoanController.php",
+					"settings":
+					{
+						"buffer_size": 49637,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/LoanController.php",
+					"settings":
+					{
+						"buffer_size": 49637,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/CollectionController.php",
+					"settings":
+					{
+						"buffer_size": 172398,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/config/menu.php",
+					"settings":
+					{
+						"buffer_size": 6982,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/views/collection/_collection_order_list.php",
+					"settings":
+					{
+						"buffer_size": 28570,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/console/controllers/CollectionManualController.php",
+					"settings":
+					{
+						"buffer_size": 55141,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/console/controllers/CollectionController.php",
+					"settings":
+					{
+						"buffer_size": 84711,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/services/loan_collection/UserLoanOrderRepaymentService.php",
+					"settings":
+					{
+						"buffer_size": 12935,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollectionOrder.php",
+					"settings":
+					{
+						"buffer_size": 48470,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/网盘/账密/192.168.39.214.txt",
+					"settings":
+					{
+						"buffer_size": 96,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/services/loan_collection/LoanCollectionDispatch.php",
+					"settings":
+					{
+						"buffer_size": 29862,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/UserLoanOrderRepayment.php",
+					"settings":
+					{
+						"buffer_size": 17231,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mygit/addons/voldemort_kefu/processor.php",
+					"settings":
+					{
+						"buffer_size": 5915,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/StatisticsDispatchDay.php",
+					"settings":
+					{
+						"buffer_size": 3693,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/services/loan_collection/UserFeedbackService.php",
+					"settings":
+					{
+						"buffer_size": 5271,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/test/time.php",
+					"settings":
+					{
+						"buffer_size": 42,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/UserFeedback.php",
+					"settings":
+					{
+						"buffer_size": 1478,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollection.php",
+					"settings":
+					{
+						"buffer_size": 12749,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/api/RedisMQ.php",
+					"settings":
+					{
+						"buffer_size": 2870,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/console/controllers/DaemonController.php",
+					"settings":
+					{
+						"buffer_size": 1639,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/helpers/MailHelper.php",
+					"settings":
+					{
+						"buffer_size": 2608,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/vendor/yiisoft/yii2/mail/BaseMailer.php",
+					"settings":
+					{
+						"buffer_size": 14218,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/vendor/yiisoft/yii2/mail/MailerInterface.php",
+					"settings":
+					{
+						"buffer_size": 2474,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Message.php",
+					"settings":
+					{
+						"buffer_size": 7561,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/config/params.php",
+					"settings":
+					{
+						"buffer_size": 10477,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/frontend/config/main.php",
+					"settings":
+					{
+						"buffer_size": 4469,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 13677 files for \"app/runtime/logs\"\n\nD:\\wamp64\\www\\php_code\\common\\services\\channel\\BaseService.php:\n  360      {\n  361          //Yii::$level($message, 'kdkj.channelorder.'.$this->getChannelName().'.' . $order_no);\n  362:         $file = Yii::getAlias('@app/runtime/logs') . '/interface-' . $this->getChannelName() . '.log';\n  363          $f = fopen($file, 'a+');\n  364          fwrite($f, $message . \"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\common\\services\\InterfaceRongService.php:\n  900      {\n  901          Yii::$level($message, 'kdkj.channelorder.rong360.' . $order_no);\n  902: //        $logFile = Yii::getAlias('@app/runtime/logs').'/interface.log';\n  903  //        $fh = fopen($logFile,'a+');\n  904  //        fwrite($fh, $message.\"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\console\\controllers\\ChannelOrderFeedbackController.php:\n  371          }\n  372          Yii::$level($message, 'kdkj.channelorder.'.$channel);\n  373: //        $logFile = Yii::getAlias('@app/runtime/logs').'/interface.log';\n  374  //        $fh = fopen($logFile,'a+');\n  375  //        fwrite($fh, $message.\"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\frontend\\controllers\\InterfaceJiedianqianController.php:\n 1041      {\n 1042          //Yii::$level($message, 'kdkj.channelorder.'.$this->getChannelName().'.' . $order_no);\n 1043:         $file = Yii::getAlias('@app/runtime/logs') . '/interface-' . $this->getChannelName() . '.log';\n 1044          $f = fopen($file, 'a+');\n 1045          fwrite($f, $message . \"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\frontend\\controllers\\InterfaceRongController.php:\n 1063      {\n 1064          Yii::$level($message, 'kdkj.channelorder.rong360.frontend.' . $order_no);\n 1065: //        $logFile = Yii::getAlias('@app/runtime/logs').'/interface.log';\n 1066  //        $fh = fopen($logFile,'a+');\n 1067  //        fwrite($fh, $message.\"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\frontend\\controllers\\InterfaceWuyaoController.php:\n 1198      public function log($message, $level = 'info', $source_order_id = null)\n 1199      {\n 1200:         $file = Yii::getAlias('@app/runtime/logs') . '/interface-51.log';\n 1201          $f = fopen($file, 'a+');\n 1202          fwrite($f, $message . \"\\n\\n\");\n\nD:\\wamp64\\www\\php_code\\mobile\\controllers\\ShandaiController.php:\n  393      public function log($message)\n  394      {\n  395:         $file = Yii::getAlias('@app/runtime/logs') . '/shandai.log';\n  396          $f = fopen($file, \"a+\");\n  397          fwrite($f, $message . \"\\n\\n\");\n\n7 matches across 7 files\n\n\nSearching 44 files for \"debug-kefu-w\"\n\nE:\\mygit\\addons\\voldemort_kefu\\inc\\mobile\\kefu.inc.php:\n   34  \t$openid = !empty($_SESSION['openid']) ? $_SESSION['openid'] : (!empty($_W['openid']) ? $_W['openid'] : '');\n   35  \tWeUtility::logging('debug-kefu-session', json_encode($_SESSION));\n   36: \tWeUtility::logging('debug-kefu-w', json_encode($_W));\n   37  \tif(empty($openid)){\n   38  \t\tmessage('获取身份失败','','error');\n\n1 match in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 2914,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/E/mygit/addons/voldemort_kefu/inc/mobile/kefu.inc.php",
+					"settings":
+					{
+						"buffer_size": 2142,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mygit/addons/voldemort_kefu/inc/web/kefu.inc.php",
+					"settings":
+					{
+						"buffer_size": 4379,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/controllers/WorkDeskController.php",
+					"settings":
+					{
+						"buffer_size": 142392,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/BaseController.php",
+					"settings":
+					{
+						"buffer_size": 5226,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/controllers/CollectionStatisticsController.php",
+					"settings":
+					{
+						"buffer_size": 64206,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/UserCollectionController.php",
+					"settings":
+					{
+						"buffer_size": 14895,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/CollectionStatisticsController.php",
+					"settings":
+					{
+						"buffer_size": 55075,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/CollectionNoticeController.php",
+					"settings":
+					{
+						"buffer_size": 4061,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/backend/controllers/LoanCollectionController.php",
+					"settings":
+					{
+						"buffer_size": 44216,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/views/collection-statistics/principal-statistics.php",
+					"settings":
+					{
+						"buffer_size": 18915,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByRate.php",
+					"settings":
+					{
+						"buffer_size": 5682,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/views/collection/foresee-input.php",
+					"settings":
+					{
+						"buffer_size": 3777,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/callcenter/views/collection-statistics/order-statistics.php",
+					"settings":
+					{
+						"buffer_size": 24668,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByDay.php",
+					"settings":
+					{
+						"buffer_size": 3711,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollectionDeadline.php",
+					"settings":
+					{
+						"buffer_size": 1901,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/网盘/催收系统独立/assist数据库.txt",
+					"settings":
+					{
+						"buffer_size": 178,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/php_code/environments/dev/common/config/main-local.php",
+					"settings":
+					{
+						"buffer_size": 7122,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/tb_loan_collection.sql",
+					"settings":
+					{
+						"buffer_size": 171170,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Redis-x64-3.2.100/redis.windows-service.conf",
+					"settings":
+					{
+						"buffer_size": 47164,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Redis-x64-3.2.100/redis.windows.conf",
+					"settings":
+					{
+						"buffer_size": 47173,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"last_filter": "formatcode",
+				"selected_items":
+				[
+					[
+						"formatcode",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/wamp64/www/php_code",
+				"/D/wamp64/www/php_code/common",
+				"/D/wamp64/www/php_code/common/services"
+			],
+			"file_history":
+			[
+				"/D/wamp64/www/php_code/console/runtime/logs/app.log",
+				"/C/Users/Administrator/Desktop/a",
+				"/C/Users/Administrator/Desktop/tb_loan_collection_group_stage_statistics.sql",
+				"/D/wamp64/www/php_code/callcenter/views/collection/_collection_user_feedback_list.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionController.php",
+				"/D/wamp64/www/php_code/backend/controllers/MainController.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/FinancialController.php",
+				"/D/wamp64/www/php_code/callcenter/views/financial/add-debit-detail.php",
+				"/D/网盘/script脚本服务器SSH账密.txt",
+				"/D/wamp64/www/php_code/callcenter/views/main/login.php",
+				"/D/wamp64/www/php_code/console/controllers/YgdRejectController.php",
+				"/D/wamp64/www/php_release/console/controllers/MessageSendController.php",
+				"/D/wamp64/www/php_code/console/controllers/MessageSendController.php",
+				"/D/网盘/发布系统.txt",
+				"/D/网盘/短信提醒脚本.txt",
+				"/D/网盘/配置.txt",
+				"/D/网盘/短信平台.txt",
+				"/D/网盘/打卡签到.txt",
+				"/D/网盘/KJ1机器SSH账号.txt",
+				"/D/网盘/VPN.txt",
+				"/D/网盘/svn.txt",
+				"/D/网盘/host.txt",
+				"/D/网盘/192.168.39.214.txt",
+				"/D/网盘/只读实例账号.txt",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/wamp64/www/php_code/frontend/controllers/InterfaceJiedianqianController.php",
+				"/D/wamp64/www/php_release/common/services/loan_collection/LoanCollectionDispatch.php",
+				"/C/Users/Administrator/Desktop/export/export/model.php",
+				"/C/Users/Administrator/Desktop/export/export/site.php",
+				"/C/Users/Administrator/Desktop/tb_loan_collection_deadline.sql",
+				"/D/wamp64/www/php_code/callcenter/views/collection-statistics/order-statistics.php",
+				"/D/wamp64/www/php_code/common/models/loan/UserCompany.php",
+				"/D/网盘/主库只读实例.txt",
+				"/D/网盘/mongoDB日志系统.txt",
+				"/C/Users/Administrator/Desktop/lose.txt",
+				"/D/wamp64/www/php_release/console/controllers/CollectionController.php",
+				"/D/wamp64/www/php_release/callcenter/config/menu.php",
+				"/D/wamp64/www/php_code/backend/controllers/FinancialController.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserLoanOrderRepaymentService.php",
+				"/D/wamp64/www/php_code/callcenter/config/params.php",
+				"/D/wamp64/www/php_code/backend/config/params.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/StaffRepayController.php",
+				"/D/wamp64/www/php_code/backend/controllers/StaffRepayController.php",
+				"/D/wamp64/www/test/time.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionStatisticsController.php",
+				"/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByRate.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/BaseController.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionIp.php",
+				"/D/wamp64/www/test/intval.php",
+				"/D/网盘/催收系统独立/assist数据库.txt",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserFeedbackService.php",
+				"/D/wamp64/www/php_code/common/models/UserFeedback.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanApplyMobileLog.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/UserMobileContactsService.php",
+				"/D/wamp64/www/php_release/common/models/mongo/statistics/UserMobileContactsMongo.php",
+				"/D/wamp64/www/php_code/console/controllers/CollectionController.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionOrder.php",
+				"/D/wamp64/www/php_code/common/helpers/ToolsUtil.php",
+				"/D/wamp64/www/php_code/common/helpers/MailHelper.php",
+				"/D/wamp64/www/php_code/console/controllers/CollectionManualController.php",
+				"/D/wamp64/www/php_release/common/services/CollectionService.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/UserCompanyController.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-edit-form.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection/collection-user-feedback-list.php",
+				"/D/wamp64/www/php_code/backend/views/collection/_collection_user_feedback_list.php",
+				"/D/网盘/催收短信通道/云信留客/测试账号.txt",
+				"/C/Users/Administrator/AppData/Roaming/Foxmail7/Temp-3884-20170116093844/ssh-key/ssh-key/lizhenguo.pub",
+				"/D/wamp64/www/php_release/callcenter/controllers/CollectionController.php",
+				"/D/wamp64/www/php_release/backend/controllers/WorkDeskController.php",
+				"/D/wamp64/www/php_code/backend/controllers/WorkDeskController.php",
+				"/C/Users/Administrator/AppData/Roaming/Foxmail7/Temp-3884-20170116093844/已授权IP.txt",
+				"/C/Users/Administrator/Desktop/b.txt",
+				"/C/Users/Administrator/Desktop/a.txt",
+				"/D/Documents/Tencent Files/1056004265/FileRecv/tb_loan_person.sql",
+				"/D/Documents/Tencent Files/1056004265/FileRecv/loan_person缺失id第一部分.txt",
+				"/E/test2/aaa/test.php",
+				"/C/Users/Administrator/.gitconfig",
+				"/C/Users/Administrator/.ssh/known_hosts",
+				"/D/wamp64/www/php_code/backend/views/collection/collection-order-list.php",
+				"/D/Documents/Downloads/已授权IP.txt",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/_user-add-form.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection-ip/ip-add.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/CollectionIpController.php",
+				"/D/wamp64/www/php_code/common/models/UserLoanOrderRepayment.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollection.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/user-add.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/MainController.php",
+				"/D/wamp64/www/php_code/callcenter/models/AdminUserRole.php",
+				"/D/wamp64/www/php_code/callcenter/models/AdminUser.php",
+				"/D/wamp64/www/php_code/callcenter/views/collection-ip/ip-list.php",
+				"/D/wamp64/www/test/date.php",
+				"/D/wamp64/www/php_code/common/services/loan_collection/AdminUserService.php",
+				"/D/wamp64/www/php_code/backend/models/AdminUser.php",
+				"/D/wamp64/www/php_code/common/models/loan/LoanCollectionStatusChangeLog.php",
+				"/D/wamp64/www/php_code/console/controllers/DaemonController.php",
+				"/D/wamp64/www/php_code/common/services/CollectionService.php",
+				"/D/wamp64/www/php_release/common/models/loan/LoanCollectionOrder.php",
+				"/D/wamp64/www/php_code/common/services/FinancialService.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_code/backend/controllers/CollectionController.php",
+				"/D/wamp64/www/test/preg.php",
+				"/D/网盘/催收统计/派单两次的记录总数.sql",
+				"/D/wamp64/www/test/day_diff.php",
+				"/D/wamp64/www/php_code/backend/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_release/backend/controllers/CollectionIpController.php",
+				"/D/wamp64/www/php_release/callcenter/config/params.php",
+				"/D/wamp64/www/php_code/backend/controllers/CollectionIpController.php",
+				"/D/wamp64/www/test/array_diff.php",
+				"/D/wamp64/www/test/year.php",
+				"/D/wamp64/www/test/sort.php",
+				"/D/wamp64/www/test/server.php",
+				"/D/wamp64/www/test/int.php",
+				"/D/wamp64/www/test/db_construct.php",
+				"/D/wamp64/www/php_release/backend/config/params.php",
+				"/D/wamp64/www/php_code/backend/controllers/UserCompanyController.php",
+				"/D/wamp64/www/php_release/callcenter/controllers/AdminUserController.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/company-list.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-list.php",
+				"/D/wamp64/www/php_code/callcenter/config/menu.php",
+				"/C/Users/Administrator/Desktop/phone.php",
+				"/D/wamp64/www/php_code/backend/views/collection-statistics/principal-statistics.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/company-add.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-company/_company-add-form.php",
+				"/D/Documents/Tencent Files/2017926569/FileRecv/i.weiks.net-access.log",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/user-collection-list.php",
+				"/D/wamp64/www/php_code/callcenter/views/user-collection/_user-collection-list.php",
+				"/D/wamp64/www/php_code/backend/views/user-company/_company-add-form.php",
+				"/D/wamp64/www/php_code/callcenter/controllers/UserCollectionController.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"E:\\mygit\\addons\\voldemort_kefu",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_release\\h5\\config",
+					"D:\\wamp64\\www\\php_release\\mobile\\config",
+					"D:\\wamp64\\www\\php_release\\frontend\\config",
+					"D:\\wamp64\\www\\php_release\\front\\config",
+					"D:\\wamp64\\www\\php_release\\fronted\\config",
+					"D:\\wamp64\\www\\php_release\\callcenter\\config",
+					"D:\\wamp64\\www\\php_release\\backend\\config",
+					"D:\\wamp64\\www\\php_code\\backend\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_release\\callcenter\\",
+					"D:\\wamp64\\www\\php_release\\callcenter\\views\\staff-repay",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\",
+					"D:\\wamp64\\www\\php_code\\",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\environments\\prod",
+					"D:\\wamp64\\www\\php_code\\environments\\dev",
+					"D:\\wamp64\\www\\php_release\\environments\\dev",
+					"D:\\wamp64\\www\\php_release\\environments\\common",
+					"D:\\wamp64\\www\\php_release\\environments",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"E:\\mygit\\framework",
+					"E:\\mygit\\web",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\callcenter",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\dms",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\environments\\test",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\daily",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\financial",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\finiancial",
+					"D:\\wamp64\\www\\php_code\\_backend",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\user-company",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\user-collection",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\usercollection",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\layouts",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\layout",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views\\main",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments\\prod\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments\\",
+					"D:\\wamp64\\www\\php_code\\callcenter\\",
+					"D:\\wamp64\\www\\php_code\\callcenter\\config",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controlleres",
+					"D:\\wamp64\\www\\php_code\\callcenter\\components",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\views",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter\\models",
+					"D:\\wamp64\\www\\php_code\\callcenter\\controllers",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\environments",
+					"D:\\wamp64\\www\\php_code\\callcenter",
+					"D:\\wamp64\\www\\php_code\\console",
+					"<current file>",
+					"D:\\wamp64\\www\\php_code\\console",
+					"<open files>",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\console\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\common\\services",
+					"D:\\wamp64\\www\\php_release\\backend\\",
+					"D:\\wamp64\\www\\php_release\\common\\",
+					"D:\\wamp64\\www\\php_release\\common\\services",
+					"D:\\wamp64\\www\\php_code\\common\\services",
+					"D:\\wamp64\\www\\php_code\\common\\service",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\console",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_release\\console",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_release\\backend",
+					"D:\\wamp64\\www\\php_release\\common",
+					"D:\\wamp64\\www\\php_code\\common",
+					"D:\\wamp64\\www\\php_code\\common\\models\\",
+					"D:\\wamp64\\www\\php_code\\backend",
+					"D:\\wamp64\\www\\php_code\\common\\models\\loan",
+					"D:\\wamp64\\www\\php_code\\console"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dispatch_time",
+					"getCollectionOrderLisetFilter",
+					"submit",
+					"w0",
+					"过滤",
+					"ch_status",
+					"LoanCollectionService",
+					"url",
+					"myModal",
+					"search_submit",
+					"w0",
+					"search_submit",
+					"过滤",
+					"getCollectionOrderLisetFilter",
+					"$status",
+					"全选",
+					"getCollectionOrderLisetFilter",
+					"collectionorderlist",
+					"list",
+					"collectionorderlist",
+					"getCollectionOrderLisetFilter",
+					"collectionorderlist",
+					"actionYgdList",
+					"LoanBlackList",
+					"tb_loan_black_list",
+					"newyear",
+					"批量转派",
+					"pages",
+					"all_list",
+					"status",
+					"manual",
+					"menu_manual_status",
+					"actionNoticeNoPay",
+					"actionNoticeNoOut",
+					"$status",
+					"getdb(",
+					"LoanCollectionService",
+					"$status",
+					"newdispatch_mod",
+					"$status",
+					"warning",
+					"unpayed_count",
+					" max($repayIds);",
+					"unpayed_count",
+					"unpayed",
+					"RedisMQ",
+					"$status",
+					"$statis",
+					"container",
+					"LoanCollectionStatusChangeLog",
+					"manualstatus",
+					"redis_key",
+					"warning",
+					"newdispatch_mod",
+					"无催收人且未催收成功的催收单",
+					"权限不对的【内部普通人员】",
+					"newdispatch_mod",
+					"newdispatch",
+					"$status",
+					"order_id(",
+					"warning",
+					"rucui",
+					"destroy",
+					"desctroy",
+					"dispatch_order",
+					"collection",
+					"newdispatch_mod",
+					"db_kdkj_rd",
+					"$status",
+					"qr_img",
+					"debug-kefu-w",
+					"warning",
+					"newdispatch",
+					"StatisticsDispatchDay",
+					"update_at",
+					"create_at",
+					"user_loan_order_id",
+					"$sub_type",
+					"sub_type",
+					"one(",
+					"all(",
+					"getDb(",
+					"userfeedback",
+					"newdispatch",
+					"actionDispatchMail",
+					"doDispatch",
+					"newdispatch_mod",
+					"test",
+					"reset(",
+					"test",
+					"ids_waiting_orders_level_rd_mod",
+					"newdispatch",
+					"newdispatchmod",
+					"RedisMQ",
+					"test",
+					"redis",
+					"test",
+					"mail",
+					"ma",
+					" <option value=\"\">智能选择渠道</option>",
+					"$ldys_times = cardInfo::CARD_DEBIT_MAX_TIMES-cardInfo::getCardDebitTimes($card_no,BankConfig::PLATFORM_UMPAY);\n        if($ldys_times<0)",
+					"sendMultiple",
+					"send(",
+					"send",
+					"sendMultiple",
+					"Swift_SmtpTransport",
+					"newdispatch",
+					"db_assist",
+					"test",
+					"tableName",
+					"foresee",
+					"reset",
+					"newdispatch_",
+					"actionDispatchMail",
+					"actionNewDispatch",
+					"actionDispatchMail",
+					"global_group_user_amount",
+					"group_id",
+					"group",
+					"global_group_user_amount",
+					"function getDb_rd",
+					"rm-bp1wq75vz91q4ni83o.mysql.rds.aliyuncs.com",
+					"assist",
+					"global_group_user_amount",
+					"catch",
+					"catch(\\",
+					"auto_dispatch_3",
+					"doDispatch"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"updated_at",
+					"created_at",
+					"backend",
+					"callcenter",
+					"src=\"//cdn.bootcss.com/",
+					"href=\"//cdn.bootcss.com/",
+					"",
+					"callcenter\\",
+					"namespace callcenter\\",
+					"callcenter",
+					"",
+					"collection"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\wamp64\\www\\php_code"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/wamp64/www/php_code/callcenter/controllers/CollectionController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 142732,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2571,
+										2571
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1344.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/wamp64/www/php_code/common/services/LoanCollectionService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3782,
+										3788
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/wamp64/www/php_code/callcenter/views/collection/manual-status-list.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18925,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1705,
+										1713
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 727.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/wamp64/www/php_release/backend/controllers/LoanController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 49637,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40708,
+										40708
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 19527.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/wamp64/www/php_code/backend/controllers/LoanController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 49637,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40335,
+										40344
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 19287.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/wamp64/www/php_code/backend/controllers/CollectionController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 172398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43994,
+										43994
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 20049.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/wamp64/www/php_code/callcenter/config/menu.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6982,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5913,
+										5913
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1760.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/wamp64/www/php_code/callcenter/views/collection/_collection_order_list.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28570,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1620.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/wamp64/www/php_code/console/controllers/CollectionManualController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 55141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12050,
+										12203
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6347.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/wamp64/www/php_code/console/controllers/CollectionController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 84711,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45925,
+										45927
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 20267.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/D/wamp64/www/php_code/common/services/loan_collection/UserLoanOrderRepaymentService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12935,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12567,
+										12575
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5927.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollectionOrder.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 48470,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										31967,
+										31974
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 14887.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/D/网盘/账密/192.168.39.214.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 96,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/D/wamp64/www/php_code/common/services/loan_collection/LoanCollectionDispatch.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29862,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5204,
+										5204
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 567.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/D/wamp64/www/php_code/common/models/UserLoanOrderRepayment.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17231,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2636,
+										2657
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 987.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/E/mygit/addons/voldemort_kefu/processor.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5915,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1076,
+										1076
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 420.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 21,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/D/wamp64/www/php_code/common/models/loan/StatisticsDispatchDay.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3693,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										351,
+										389
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 22,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/D/wamp64/www/php_code/common/services/loan_collection/UserFeedbackService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5271,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										926,
+										926
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 387.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 24,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/D/wamp64/www/test/time.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 42,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 28,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/D/wamp64/www/php_code/common/models/UserFeedback.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1478,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1085,
+										1085
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 26,
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollection.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12749,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12463,
+										12476
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7668.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 37,
+							"type": "text"
+						},
+						{
+							"buffer": 21,
+							"file": "/D/wamp64/www/php_code/common/api/RedisMQ.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2870,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										161,
+										161
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 29,
+							"type": "text"
+						},
+						{
+							"buffer": 22,
+							"file": "/D/wamp64/www/php_code/console/controllers/DaemonController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1639,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										338,
+										349
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 60.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 30,
+							"type": "text"
+						},
+						{
+							"buffer": 23,
+							"file": "/D/wamp64/www/php_code/common/helpers/MailHelper.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1119,
+										1123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 660.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 31,
+							"type": "text"
+						},
+						{
+							"buffer": 24,
+							"file": "/D/wamp64/www/php_code/vendor/yiisoft/yii2/mail/BaseMailer.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14218,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10172,
+										10179
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4547.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 32,
+							"type": "text"
+						},
+						{
+							"buffer": 25,
+							"file": "/D/wamp64/www/php_code/vendor/yiisoft/yii2/mail/MailerInterface.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2474,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2053,
+										2057
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 960.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 34,
+							"type": "text"
+						},
+						{
+							"buffer": 26,
+							"file": "/D/wamp64/www/php_code/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Message.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7561,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3041,
+										3053
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2160.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 35,
+							"type": "text"
+						},
+						{
+							"buffer": 27,
+							"file": "/D/wamp64/www/php_code/common/config/params.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5370.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 41,
+							"type": "text"
+						},
+						{
+							"buffer": 28,
+							"file": "/D/wamp64/www/php_code/frontend/config/main.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4469,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 42,
+							"type": "text"
+						},
+						{
+							"buffer": 29,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2914,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												264,
+												280
+											],
+											[
+												624,
+												640
+											],
+											[
+												963,
+												979
+											],
+											[
+												1327,
+												1343
+											],
+											[
+												1704,
+												1720
+											],
+											[
+												2043,
+												2059
+											],
+											[
+												2330,
+												2346
+											],
+											[
+												2794,
+												2806
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										2799,
+										2799
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 2,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1060.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 20,
+							"type": "text"
+						},
+						{
+							"buffer": 30,
+							"file": "/E/mygit/addons/voldemort_kefu/inc/mobile/kefu.inc.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2142,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1464,
+										1464
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 429.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 31,
+							"file": "/E/mygit/addons/voldemort_kefu/inc/web/kefu.inc.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4379,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2026,
+										2029
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 647.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 32,
+							"file": "/D/wamp64/www/php_code/callcenter/controllers/WorkDeskController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 142392,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2531,
+										2533
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1580.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 33,
+							"file": "/D/wamp64/www/php_code/backend/controllers/BaseController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5226,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										568,
+										568
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 33,
+							"type": "text"
+						},
+						{
+							"buffer": 34,
+							"file": "/D/wamp64/www/php_code/callcenter/controllers/CollectionStatisticsController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 64206,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 507.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 39,
+							"type": "text"
+						},
+						{
+							"buffer": 35,
+							"file": "/D/wamp64/www/php_code/backend/controllers/UserCollectionController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14895,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1078,
+										1108
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 45,
+							"type": "text"
+						},
+						{
+							"buffer": 36,
+							"file": "/D/wamp64/www/php_code/backend/controllers/CollectionStatisticsController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 55075,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1576,
+										1576
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 47,
+							"type": "text"
+						},
+						{
+							"buffer": 37,
+							"file": "/D/wamp64/www/php_code/backend/controllers/CollectionNoticeController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4061,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1013,
+										1013
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 46,
+							"type": "text"
+						},
+						{
+							"buffer": 38,
+							"file": "/D/wamp64/www/php_code/backend/controllers/LoanCollectionController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 44216,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1351,
+										1351
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 295.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 39,
+							"file": "/D/wamp64/www/php_code/callcenter/views/collection-statistics/principal-statistics.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18915,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4817,
+										4834
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 140.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 23,
+							"type": "text"
+						},
+						{
+							"buffer": 40,
+							"file": "/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByRate.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5682,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4261,
+										4266
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 647.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 27,
+							"type": "text"
+						},
+						{
+							"buffer": 41,
+							"file": "/D/wamp64/www/php_code/callcenter/views/collection/foresee-input.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3777,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3139,
+										3139
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 760.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 36,
+							"type": "text"
+						},
+						{
+							"buffer": 42,
+							"file": "/D/wamp64/www/php_code/callcenter/views/collection-statistics/order-statistics.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 643.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 49,
+							"type": "text"
+						},
+						{
+							"buffer": 43,
+							"file": "/D/wamp64/www/php_code/common/models/loan/OrderStatisticsByDay.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3711,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3325,
+										2803
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1980.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 25,
+							"type": "text"
+						},
+						{
+							"buffer": 44,
+							"file": "/D/wamp64/www/php_code/common/models/loan/LoanCollectionDeadline.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										675,
+										678
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 48,
+							"type": "text"
+						},
+						{
+							"buffer": 45,
+							"file": "/D/网盘/催收系统独立/assist数据库.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										167,
+										176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 38,
+							"type": "text"
+						},
+						{
+							"buffer": 46,
+							"file": "/D/wamp64/www/php_code/environments/dev/common/config/main-local.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2154,
+										2473
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 900.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 47,
+							"file": "/C/Users/Administrator/Desktop/tb_loan_collection.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 171170,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 1920.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 40,
+							"type": "text"
+						},
+						{
+							"buffer": 48,
+							"file": "/D/Redis-x64-3.2.100/redis.windows-service.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2294,
+										2297
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 467.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 44,
+							"type": "text"
+						},
+						{
+							"buffer": 49,
+							"file": "/D/Redis-x64-3.2.100/redis.windows.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47173,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2323,
+										2310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 727.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 43,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,1049,22,134,1839",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"main-local",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"loancontroll",
+						"backend\\controllers\\LoanController.php"
+					],
+					[
+						"loancollectioncon",
+						"backend\\controllers\\LoanCollectionController.php"
+					],
+					[
+						"collectioncontroll",
+						"backend\\controllers\\CollectionController.php"
+					],
+					[
+						"collec",
+						"console\\controllers\\CollectionController.php"
+					],
+					[
+						"work",
+						"callcenter\\controllers\\WorkDeskController.php"
+					],
+					[
+						"loancollectiondispa",
+						"common\\services\\loan_collection\\LoanCollectionDispatch.php"
+					],
+					[
+						"main-loca",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"userloanorderre",
+						"common\\models\\UserLoanOrderRepayment.php"
+					],
+					[
+						"main-lo",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"lomanual",
+						"console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"_collection_user_feedback_list",
+						"callcenter\\views\\collection\\_collection_user_feedback_list.php"
+					],
+					[
+						"collectionmanual",
+						"console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"daemon",
+						"console\\controllers\\DaemonController.php"
+					],
+					[
+						"add-debit-",
+						"callcenter\\views\\financial\\add-debit-detail.php"
+					],
+					[
+						"financial",
+						"callcenter\\controllers\\FinancialController.php"
+					],
+					[
+						"foresee",
+						"callcenter\\views\\collection\\foresee-input.php"
+					],
+					[
+						"main-loa",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"collectioncon",
+						"callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"loancollectionorder",
+						"common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"main-l",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"main-c",
+						"environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"params",
+						"common\\config\\params.php"
+					],
+					[
+						"messagesendcontroller",
+						"console\\controllers\\MessageSendController.php"
+					],
+					[
+						"interfacej",
+						"frontend\\controllers\\InterfaceJiedianqianController.php"
+					],
+					[
+						"loancollectioncontroll",
+						"backend\\controllers\\LoanCollectionController.php"
+					],
+					[
+						"collectionnotice",
+						"backend\\controllers\\CollectionNoticeController.php"
+					],
+					[
+						"collectionstati",
+						"backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"usercollec",
+						"backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"maincon",
+						"backend\\controllers\\MainController.php"
+					],
+					[
+						"basec",
+						"backend\\controllers\\BaseController.php"
+					],
+					[
+						"usercollection",
+						"backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"workdes",
+						"callcenter\\controllers\\WorkDeskController.php"
+					],
+					[
+						"principal-statistics",
+						"callcenter\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"order-statistics",
+						"callcenter\\views\\collection-statistics\\order-statistics.php"
+					],
+					[
+						"collectionstatic",
+						"callcenter\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"menu",
+						"callcenter\\config\\menu.php"
+					],
+					[
+						"collectioncontrol",
+						"console\\controllers\\CollectionController.php"
+					],
+					[
+						"ygdreject",
+						"php_code\\console\\controllers\\YgdRejectController.php"
+					],
+					[
+						"basecon",
+						"php_code\\callcenter\\controllers\\BaseController.php"
+					],
+					[
+						"collection-user-feedback-list",
+						"php_code\\callcenter\\views\\collection\\collection-user-feedback-list.php"
+					],
+					[
+						"_company-edit-form",
+						"php_code\\callcenter\\views\\user-company\\_company-edit-form.php"
+					],
+					[
+						"usercompanycon",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"tool",
+						"php_code\\common\\helpers\\ToolsUtil.php"
+					],
+					[
+						"manual",
+						"php_code\\console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"colle",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"loancollectionip",
+						"php_code\\common\\models\\loan\\LoanCollectionIp.php"
+					],
+					[
+						"loancollectionorder.php",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"manualcontroll",
+						"php_code\\console\\controllers\\CollectionManualController.php"
+					],
+					[
+						"collection",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"financialcon",
+						"php_code\\callcenter\\controllers\\FinancialController.php"
+					],
+					[
+						"staffrepaycontr",
+						"php_code\\backend\\controllers\\StaffRepayController.php"
+					],
+					[
+						"collectionip.php",
+						"php_code\\common\\models\\loan\\LoanCollectionIp.php"
+					],
+					[
+						"collectionipcon",
+						"php_code\\callcenter\\controllers\\CollectionIpController.php"
+					],
+					[
+						"ip-add",
+						"php_code\\callcenter\\views\\collection-ip\\ip-add.php"
+					],
+					[
+						"_user-add-form",
+						"php_code\\callcenter\\views\\user-collection\\_user-add-form.php"
+					],
+					[
+						"user-add",
+						"php_code\\callcenter\\views\\user-collection\\user-add.php"
+					],
+					[
+						"collectionorderlist",
+						"php_code\\backend\\views\\collection\\collection-order-list.php"
+					],
+					[
+						"collectioncontroller",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"userloanorderrepaymentser",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"collectioncontroller.php",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"ip-list",
+						"php_code\\callcenter\\views\\collection-ip\\ip-list.php"
+					],
+					[
+						"collectionipcont",
+						"php_code\\callcenter\\controllers\\CollectionIpController.php"
+					],
+					[
+						"collectionip",
+						"php_code\\backend\\controllers\\CollectionIpController.php"
+					],
+					[
+						"adminuser",
+						"php_code\\callcenter\\models\\AdminUser.php"
+					],
+					[
+						"loancollection",
+						"php_code\\common\\models\\loan\\LoanCollection.php"
+					],
+					[
+						"collectioncont",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"userloanorderrepay",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"loancollectionorder.",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"userloanorderrepaymentservice",
+						"php_code\\common\\services\\loan_collection\\UserLoanOrderRepaymentService.php"
+					],
+					[
+						"usercompany.php",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"loancollectionstatuscha",
+						"php_code\\common\\models\\loan\\LoanCollectionStatusChangeLog.php"
+					],
+					[
+						"loancollection.php",
+						"php_code\\common\\models\\loan\\LoanCollection.php"
+					],
+					[
+						"maincontro",
+						"php_code\\callcenter\\controllers\\MainController.php"
+					],
+					[
+						"collectioncontro",
+						"php_code\\console\\controllers\\CollectionController.php"
+					],
+					[
+						"adminusercon",
+						"php_code\\callcenter\\controllers\\AdminUserController.php"
+					],
+					[
+						"adminusercontroller",
+						"php_code\\backend\\controllers\\AdminUserController.php"
+					],
+					[
+						"usercompany",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"_company-list",
+						"php_code\\callcenter\\views\\user-company\\_company-list.php"
+					],
+					[
+						"company-list",
+						"php_code\\callcenter\\views\\user-company\\company-list.php"
+					],
+					[
+						"basecontro",
+						"php_code\\callcenter\\controllers\\BaseController.php"
+					],
+					[
+						"usercompany.p",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"princi",
+						"php_code\\backend\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"_company-add-form",
+						"php_code\\callcenter\\views\\user-company\\_company-add-form.php"
+					],
+					[
+						"company-add",
+						"php_code\\callcenter\\views\\user-company\\company-add.php"
+					],
+					[
+						"_company-add-fo",
+						"php_code\\callcenter\\views\\user-company\\_company-add-form.php"
+					],
+					[
+						"usercollectioncontro",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					],
+					[
+						"_user_add",
+						"php_code\\callcenter\\views\\user-collection\\_user-add-form.php"
+					],
+					[
+						"loandispatch",
+						"php_code\\common\\services\\loan_collection\\LoanCollectionDispatch.php"
+					],
+					[
+						"collectionorder",
+						"php_code\\common\\models\\loan\\LoanCollectionOrder.php"
+					],
+					[
+						"usercompanycontroller",
+						"php_code\\callcenter\\controllers\\UserCompanyController.php"
+					],
+					[
+						"app.php",
+						"php_release\\callcenter\\messages\\zh\\app.php"
+					],
+					[
+						"usercompan",
+						"php_code\\common\\models\\loan\\UserCompany.php"
+					],
+					[
+						"basejson",
+						"php_code\\vendor\\yiisoft\\yii2\\helpers\\BaseJson.php"
+					],
+					[
+						"basejson.php",
+						"php_release\\vendor\\yiisoft\\yii2\\helpers\\BaseJson.php"
+					],
+					[
+						"staffrepay",
+						"php_release\\backend\\controllers\\StaffRepayController.php"
+					],
+					[
+						"menu.php",
+						"php_code\\backend\\config\\menu.php"
+					],
+					[
+						"main-local.php",
+						"php_code\\environments\\dev\\common\\config\\main-local.php"
+					],
+					[
+						"mailhe",
+						"php_code\\common\\helpers\\MailHelper.php"
+					],
+					[
+						"principal",
+						"php_code\\backend\\views\\collection-statistics\\principal-statistics.php"
+					],
+					[
+						"userloanorderrep",
+						"php_code\\common\\models\\UserLoanOrderRepayment.php"
+					],
+					[
+						"_collection_order_list",
+						"php_code\\backend\\views\\collection\\_collection_order_list.php"
+					],
+					[
+						"collection-order-list",
+						"php_code\\callcenter\\views\\collection\\collection-order-list.php"
+					],
+					[
+						"loan-apply-access",
+						"php_code\\callcenter\\views\\collection\\loan-apply-access.php"
+					],
+					[
+						"collectioncontr",
+						"php_code\\callcenter\\controllers\\CollectionController.php"
+					],
+					[
+						"user-schedule",
+						"php_code\\callcenter\\views\\user-company\\user-schedule.php"
+					],
+					[
+						"user-collection-list",
+						"php_code\\callcenter\\views\\user-collection\\user-collection-list.php"
+					],
+					[
+						"usercollectioncon",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					],
+					[
+						"outside-statistics",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"loan-collection-statistics",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"collectionstatis",
+						"php_code\\callcenter\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"usercon",
+						"php_code\\backend\\controllers\\UserController.php"
+					],
+					[
+						"collectionstatisticcon",
+						"php_release\\backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"outside-statis",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"outside-statstics",
+						"php_release\\backend\\views\\collection-statistics\\outside-statistics.php"
+					],
+					[
+						"outside-bill",
+						"php_code\\callcenter\\views\\collection-statistics\\outside-billboard.php"
+					],
+					[
+						"outside-bi",
+						"php_release\\backend\\views\\collection-statistics\\outside-billboard.php"
+					],
+					[
+						"month-statistic-new",
+						"php_code\\callcenter\\views\\collection-statistics\\month-statistic-new.php"
+					],
+					[
+						"loan-collection-statistis",
+						"php_release\\backend\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"custommanagementcon",
+						"php_release\\backend\\controllers\\CustomManagementController.php"
+					],
+					[
+						"_user-collection",
+						"php_code\\callcenter\\views\\user-collection\\_user-collection-list.php"
+					],
+					[
+						"usercollectioncontr",
+						"php_release\\backend\\controllers\\UserCollectionController.php"
+					],
+					[
+						"loan-collection-vieww",
+						"php_release\\backend\\views\\collection\\loan-collection-vieww.php"
+					],
+					[
+						"",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"collectionstatist",
+						"php_release\\backend\\controllers\\CollectionStatisticsController.php"
+					],
+					[
+						"loan-collections-s",
+						"php_code\\callcenter\\views\\collection-statistics\\loan-collection-statistics.php"
+					],
+					[
+						"user-collection",
+						"php_code\\callcenter\\views\\user-collection\\user-collection-list.php"
+					],
+					[
+						"usercollectionco",
+						"php_code\\callcenter\\controllers\\UserCollectionController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 343.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

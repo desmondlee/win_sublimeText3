@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BeyondCompare",
+		"CodeFormatter",
+		"DocBlockr",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Sublimerge 3"
+	]
+}
